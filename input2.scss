@@ -1,0 +1,8 @@
+$color-nomal: #666;
+$color-point: #f00;
+a{
+    color: $color-nomal;
+    &:hover{
+        color: $color-point;
+    }
+}
